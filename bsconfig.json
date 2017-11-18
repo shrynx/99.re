@@ -1,0 +1,7 @@
+{
+  "name": "99.re",
+  "sources": ["src"],
+  "bsc-flags": ["-bs-super-errors"],
+  "package-specs": "commonjs",
+  "refmt": 3
+}
